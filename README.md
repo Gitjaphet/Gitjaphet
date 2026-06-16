@@ -11,6 +11,8 @@
 ## À propos de moi
 
 - J'ai développé **[Art-Jatie Boutique](https://github.com/Gitjaphet/Art-Jatie-Boutique)** — une plateforme e-commerce de crochet artisanal malgache avec agent IA conversationnel intégré
+- **Cloud Print Solution V2** — Application cross-platform pour impression RAW via WebSocket · `Python` `WebSockets` `Cross-Platform`
+- **[Framework de Sécurité Odoo](https://japhet-dev-portfolio.vercel.app/projects)** — Modules de restriction avancée avec architecture Docker sécurisée · `Docker` `Odoo` `Backup automatique`
 - Basé à **Madagascar**
 - Portfolio : [japhet-dev-portfolio.vercel.app](https://japhet-dev-portfolio.vercel.app)
 - Languages : Français · English · Malagasy
