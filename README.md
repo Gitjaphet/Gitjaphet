@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Full-stack developer 🇲🇬 | Next.js · FastAPI · Python · TypeScript · Odoo
+  Full-stack developer 🇲🇬 | Next.js · Django · FastAPI · Python · TypeScript · Odoo
 </p>
 
 ---
