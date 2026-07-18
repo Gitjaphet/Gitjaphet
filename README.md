@@ -14,7 +14,7 @@
 - **[Budgy](https://github.com/Gitjaphet/Budgy)** — SaaS multi-tenant de gestion de dépenses personnelles · `Django` `PostgreSQL` `Docker` `Multi-tenant`
 - **crm_call_center** — Module Odoo sur mesure pour centre d'appels B2B, file d'appel priorisée et relances automatiques · `Python` `Odoo` `PostgreSQL`
 - Basé à **Madagascar**
-- Portfolio : [japhet-dev-portfolio.vercel.app](https://japhet.medevstack.com)
+- Portfolio : [japhet.medevstack.com](https://japhet.medevstack.com)
 - Languages : Français · English · Malagasy
 
 ## Stack technique
