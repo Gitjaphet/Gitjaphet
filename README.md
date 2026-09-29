@@ -20,7 +20,7 @@
 - J'ai développé **[Art-Jatie Boutique](https://github.com/Gitjaphet/Art-Jatie-Boutique)** — une plateforme e-commerce de crochet artisanal malgache avec agent IA conversationnel intégré
 - **[Plateforme SmartAgri](https://github.com/Gitjaphet/Plateforme-SmartAgri)** — Monitoring agricole intelligent avec ESP32, capteurs (humidité, luminosité, niveau d'eau) et irrigation automatique via MQTT · `React` `Node.js` `ESP32` `MQTT`
 - **[Budgy](https://github.com/Gitjaphet/Budgy)** — SaaS multi-tenant de gestion de dépenses personnelles · `Django` `PostgreSQL` `Docker` `Multi-tenant`
-- **crm_call_center** — Module Odoo sur mesure pour centre d'appels B2B, file d'appel priorisée et relances automatiques · `Python` `Odoo` `PostgreSQL`
+
 - Basé à **Madagascar**
 
 - Languages : Français · English · Malagasy
