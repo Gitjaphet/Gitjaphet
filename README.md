@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Salut%20%F0%9F%91%8B,%20I'm%20your%20Dev%20Boss&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-stack%20Developer%20%F0%9F%87%B2%F0%9F%87%AC&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Salut%20%F0%9F%91%8B,%20INTC%20your%20Developper%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-stack%20Developer%20%F0%9F%87%B2%F0%9F%87%AC&descAlignY=55&descSize=20" width="100%"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 - **[Budgy](https://github.com/Gitjaphet/Budgy)** — SaaS multi-tenant de gestion de dépenses personnelles · `Django` `PostgreSQL` `Docker` `Multi-tenant`
 - **crm_call_center** — Module Odoo sur mesure pour centre d'appels B2B, file d'appel priorisée et relances automatiques · `Python` `Odoo` `PostgreSQL`
 - Basé à **Madagascar**
-- Portfolio : [japhet.medevstack.com](https://japhet.medevstack.com)
+
 - Languages : Français · English · Malagasy
 
 ## Stack technique
